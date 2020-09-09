@@ -12,6 +12,7 @@ Data: https://www.kaggle.com/pdegner/mountain-project-rotues-and-forums
 
 ### Idea 3:
 Fragrance Recommender
+Could scrape basenotes for data and ratings on fragrances or use this Kaggle dataset:
 
 Data: https://www.kaggle.com/sagikeren88/fragrances-and-perfumes
 
